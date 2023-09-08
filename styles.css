@@ -1,0 +1,94 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #EDE0CD;
+    background-color: black;
+}
+
+main {
+    margin: 10px;
+    background-color: #471811;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.hero {
+    text-align: center;
+}
+
+h1 {
+    letter-spacing: 0.3rem;
+    font-size: 40px;
+}
+
+p.hero {
+    opacity: 0.8;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#img-div {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 25px;
+    padding: 45px;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 40px;
+}
+
+#img-caption {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    text-align: center;
+    opacity: 0.6;
+    font-size: 14px;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+}
+
+#tribute-info {
+    margin: 50px;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 50px;
+    color: white;
+}
+
+li {
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+section p {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    margin-top: 50px;
+}
+
+section a {
+    color: #EDE0CD;
+    font-weight: normal;
+}
+
+
+
+
+
+
+
+
